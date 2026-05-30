@@ -119,7 +119,7 @@ Passionné d'astronomie, de tatouages, d'infosec, de chats, de plongée techniqu
 ![GIMP](https://img.shields.io/badge/GIMP-1D9E75?style=plastic&logo=gimp&logoColor=white)
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-1D9E75?style=plastic&logo=libreoffice&logoColor=white)
 ![AccuWeather](https://img.shields.io/badge/AccuWeather-1D9E75?style=plastic&logo=accuweather&logoColor=white)
-![FlightAware](https://img.shields.io/badge/FlightAware-1D9E75?style=plastic&logoColor=white)
+![FlightAware](https://img.shields.io/badge/FlightAware-1D9E75?style=plastic&logo=flightaware&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-1D9E75?style=plastic&logo=leaflet&logoColor=white)
 ![Internet Archive](https://img.shields.io/badge/Internet_Archive-1D9E75?style=plastic&logo=internetarchive&logoColor=white)
 ![Wikipedia](https://img.shields.io/badge/Wikipedia-1D9E75?style=plastic&logo=wikipedia&logoColor=white)
