@@ -7,7 +7,7 @@ Hacktiviste · ancien contributeur FreeBSD · Éducateur à la vie privée · Pa
 ---
 
 Ancien Sapeur-Pompier de la BSPP, puis DBA Oracle senior chez Club-Internet / T-Online France (10 ans).     
-Contributeur FreeBSD, USENET old-timer depuis les années 90, NTP Pool project, Lichess ...
+Contributeur FreeBSD, USENET old-timer depuis les années 90, NTP Pool project, Lichess ...     
 Hacktiviste : j'opère des relais Tor et des proxys Signal parce que la vie privée n'est pas une option, c'est un droit.      
 
 Donateur à La Quadrature Du Net, membre Guardian de l'EFF, membre de la Free Software Foundation et depuis peu de la Network Time Foundation.        
