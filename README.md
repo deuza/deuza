@@ -2,17 +2,17 @@
 
 ### $ whoami — deuza
 
-Hacktiviste · ancien contributeur FreeBSD · Éducateur à la vie privée · Papa de relays Tor et de proxy Signal     
-📍 Région Centre, France, Europe · 🌐 [deuza.github.io](https://deuza.github.io) · 📝 [deuza.net](https://deuza.net)
+Hacktiviste · ancien contributeur FreeBSD · Éducateur à la vie privée · Papa de relays Tor et de proxy Signal · Time Keeper     
+📍 Région Centre, France, Europe 
 
 ---
 
 Ancien Sapeur-Pompier de la BSPP, puis DBA Oracle senior chez Club-Internet / T-Online France (10 ans).     
-Contributeur FreeBSD, USENET old-timer depuis les années 90.       
+Contributeur FreeBSD, USENET old-timer depuis les années 90, NTP Pool project, Lichess ...
 Hacktiviste : j'opère des relais Tor et des proxys Signal parce que la vie privée n'est pas une option, c'est un droit.      
 Donateur à La Quadrature Du Net, membre Guardian de l'EFF, membre de la Free Software Foundation et depuis peu de la Network Time Foundation.        
  
-Passionné d'astronomie, de tatouages, de chats, plongée technique (-142m), Time Keeper ...
+Passionné d'astronomie, de tatouages, d'infosec, de chats, de plongée technique (-142m), d'échecs ...
 
 ---
 
@@ -25,6 +25,9 @@ Passionné d'astronomie, de tatouages, de chats, plongée technique (-142m), Tim
 ![Plongée technique](https://img.shields.io/badge/Plongée_technique_--142m-1D9E75?style=flat-square&logoColor=white)
 ![Chess](https://img.shields.io/badge/Chess-1D9E75?style=flat-square&logoColor=white)
 ![Célibataire](https://img.shields.io/badge/Celibataire-1D9E75?style=flat-square&logoColor=white)
+
+
+Plus sur moi par ici : 🌐 [deuza.github.io](https://deuza.github.io) 
 
 ---
 
