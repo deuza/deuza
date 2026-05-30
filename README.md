@@ -20,7 +20,9 @@ Passionné d'astronomie, de tatouages, d'infosec, de chats, de plongée techniqu
 
 ---
 
-**🖥️ OS & Systèmes**
+<details>
+<summary>🖥️ OS & Systèmes</summary>
+<br>
 
 ![Linux](https://img.shields.io/badge/Linux-1D9E75?style=plastic&logo=linux&logoColor=white)
 ![FreeBSD](https://img.shields.io/badge/FreeBSD-1D9E75?style=plastic&logo=freebsd&logoColor=white)
@@ -34,9 +36,11 @@ Passionné d'astronomie, de tatouages, d'infosec, de chats, de plongée techniqu
 ![FreeNAS](https://img.shields.io/badge/FreeNAS-1D9E75?style=plastic&logo=freenas&logoColor=white)
 ![pfSense](https://img.shields.io/badge/pfSense-1D9E75?style=plastic&logo=pfsense&logoColor=white)
 
----
+</details>
 
-**🔒 Sécurité & Privacy**
+<details>
+<summary>🔒 Sécurité & Privacy</summary>
+<br>
 
 ![Tor exit relay](https://img.shields.io/badge/Tor_exit_relay-1D9E75?style=plastic&logo=Tor-Browser&logoColor=white)
 ![Tor Browser](https://img.shields.io/badge/Tor_Browser-1D9E75?style=plastic&logo=Tor-Browser&logoColor=white)
@@ -58,9 +62,11 @@ Passionné d'astronomie, de tatouages, d'infosec, de chats, de plongée techniqu
 ![F-Droid](https://img.shields.io/badge/F--Droid-1D9E75?style=plastic&logo=f-droid&logoColor=white)
 ![OpenSSL](https://img.shields.io/badge/OpenSSL-1D9E75?style=plastic&logo=openssl&logoColor=white)
 
----
+</details>
 
-**💻 Dev & Outils système**
+<details>
+<summary>💻 Dev & Outils système</summary>
+<br>
 
 ![Git](https://img.shields.io/badge/Git-1D9E75?style=plastic&logo=git&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-1D9E75?style=plastic&logo=vim&logoColor=white)
@@ -83,9 +89,11 @@ Passionné d'astronomie, de tatouages, d'infosec, de chats, de plongée techniqu
 ![GitHub](https://img.shields.io/badge/GitHub-1D9E75?style=plastic&logo=github&logoColor=white)
 ![CC0/Unlicense](https://img.shields.io/badge/CC0%2FUnlicense-1D9E75?style=plastic&logo=unlicense&logoColor=white)
 
----
+</details>
 
-**📡 Communication & Social**
+<details>
+<summary>📡 Communication & Social</summary>
+<br>
 
 ![Mastodon](https://img.shields.io/badge/Mastodon-1D9E75?style=plastic&logo=mastodon&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-1D9E75?style=plastic&logo=telegram&logoColor=white)
@@ -96,9 +104,11 @@ Passionné d'astronomie, de tatouages, d'infosec, de chats, de plongée techniqu
 ![Pastebin](https://img.shields.io/badge/Pastebin-1D9E75?style=plastic&logo=pastebin&logoColor=white)
 ![Imgur](https://img.shields.io/badge/Imgur-1D9E75?style=plastic&logo=imgur&logoColor=white)
 
----
+</details>
 
-**🌍 Apps & Navigation**
+<details>
+<summary>🌍 Apps & Navigation</summary>
+<br>
 
 ![Firefox](https://img.shields.io/badge/Firefox-1D9E75?style=plastic&logo=firefoxbrowser&logoColor=white)
 ![Dark Reader](https://img.shields.io/badge/Dark_Reader-1D9E75?style=plastic&logo=darkreader&logoColor=white)
@@ -114,18 +124,22 @@ Passionné d'astronomie, de tatouages, d'infosec, de chats, de plongée techniqu
 ![Wikipedia](https://img.shields.io/badge/Wikipedia-1D9E75?style=plastic&logo=wikipedia&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-1D9E75?style=plastic&logo=bitcoin&logoColor=white)
 
----
+</details>
 
-**🔭 Science & Astronomie**
+<details>
+<summary>🔭 Science & Astronomie</summary>
+<br>
 
 ![NASA](https://img.shields.io/badge/NASA-1D9E75?style=plastic&logo=nasa&logoColor=white)
 ![CERN](https://img.shields.io/badge/CERN-1D9E75?style=plastic&logoColor=white)
 ![Celestron](https://img.shields.io/badge/Celestron-1D9E75?style=plastic&logoColor=white)
 ![eVscope](https://img.shields.io/badge/eVscope-1D9E75?style=plastic&logoColor=white)
 
----
+</details>
 
-**🎸 Loisirs & Perso**
+<details>
+<summary>🎸 Loisirs & Perso</summary>
+<br>
 
 ![Lichess](https://img.shields.io/badge/Lichess-1D9E75?style=plastic&logo=lichess&logoColor=white)
 ![GuitarPro](https://img.shields.io/badge/GuitarPro-1D9E75?style=plastic&logo=guitarpro&logoColor=white)
@@ -133,15 +147,19 @@ Passionné d'astronomie, de tatouages, d'infosec, de chats, de plongée techniqu
 ![Guinness](https://img.shields.io/badge/Guinness-1D9E75?style=plastic&logoColor=white)
 ![Célibataire](https://img.shields.io/badge/Celibataire-1D9E75?style=plastic&logo=githubsponsors&logoColor=white)
 
----
+</details>
 
-**🏛️ Divers**
+<details>
+<summary>🏛️ Divers</summary>
+<br>
 
 ![O'Reilly](https://img.shields.io/badge/O'Reilly-1D9E75?style=plastic&logo=oreilly&logoColor=white)
 ![ORCID](https://img.shields.io/badge/ORCID-1D9E75?style=plastic&logo=orcid&logoColor=white)
 ![UNRWA](https://img.shields.io/badge/UNRWA-1D9E75?style=plastic&logoColor=white)
 ![2600](https://img.shields.io/badge/2600-1D9E75?style=plastic&logo=mcdonalds&logoColor=white)
 ![T411](https://img.shields.io/badge/T411-1D9E75?style=plastic&logo=transmission&logoColor=white)
+
+</details>
 
 --- 
 
