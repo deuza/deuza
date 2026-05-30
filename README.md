@@ -24,16 +24,17 @@ Passionné d'astronomie, de tatouages, de chats, plongée technique (-142m), Tim
 ![DBA Oracle](https://img.shields.io/badge/Oracle_DBA-1D9E75?style=flat-square&logo=oracle&logoColor=white)
 ![Plongée technique](https://img.shields.io/badge/Plongée_technique_--142m-1D9E75?style=flat-square&logoColor=white)
 ![Chess](https://img.shields.io/badge/Chess-1D9E75?style=flat-square&logoColor=white)
-![Célibataire](https://img.shields.io/badge/Celib-1D9E75?style=flat-square&logoColor=white)
+![Célibataire](https://img.shields.io/badge/Celibataire-1D9E75?style=flat-square&logoColor=white)
 
 ---
 
 ### Organisations soutenues ♥
 
 <a href="https://www.laquadrature.net/"><img src="https://i.imgur.com/sYjt6go.png" width="150" alt="La Quadrature du Net"></a>
-<a href="https://www.eff.org/"><img src="https://www.eff.org/files/2024/12/06/2025-orgmember.png" width="150" alt="EFF Member 2025"></a>
-<a href="https://reflets.info/"><img src="https://i.imgur.com/A5Y51UU.png" width="150" alt="Reflets.info"></a>
-<a href="https://dondesang.efs.sante.fr/"><img src="https://i.imgur.com/2qM8DE4.png" width="150" alt="Don du sang EFS"></a>
+<a href="https://www.eff.org/"><img src="https://www.eff.org/files/2024/12/06/2025-orgmember.png" width="150" alt="EFF Member 2025"></a><br>
+
+<a href="https://reflets.info/"><img src="https://i.imgur.com/A5Y51UU.png" width="150" alt="Reflets.info"></a>       
+<a href="https://dondesang.efs.sante.fr/"><img src="https://i.imgur.com/2qM8DE4.png" width="150" alt="Don du sang EFS"></a>       
 <a href="https://my.fsf.org/join?referrer=6981362"><img src="https://static.fsf.org/nosvn/associate/crm/6981362.png" width="150" alt="FSF Associate Member"></a>
 
 ---
