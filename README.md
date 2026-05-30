@@ -22,7 +22,9 @@ Passionné d'astronomie, de tatouages, d'infosec, de chats, de plongée techniqu
 ![Debian](https://img.shields.io/badge/Debian-1D9E75?style=flat-square&logo=debian&logoColor=white)
 ![DBA Oracle](https://img.shields.io/badge/Oracle_DBA-1D9E75?style=flat-square&logo=oracle&logoColor=white)
 ![Plongée technique](https://img.shields.io/badge/Plongée_technique_--142m-1D9E75?style=flat-square&logoColor=white)
-![Chess](https://img.shields.io/badge/Chess-1D9E75?style=flat-square&logoColor=white)
+![Chess](https://img.shields.io/badge/Chess-1D9E75?style=flat-square&logo=lichess&logoColor=white)
+![Tor exit relay](https://img.shields.io/badge/Tor_exit_relay-1D9E75?style=flat-square&logo=Tor-Browser&logoColor=white)
+![Signal proxy](https://img.shields.io/badge/Signal_Proxy-1D9E75?style=flat-square&logo=Signal&logoColor=white)
 ![Célibataire](https://img.shields.io/badge/Celibataire-1D9E75?style=flat-square&logoColor=white)
 
 
