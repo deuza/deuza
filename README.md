@@ -33,8 +33,8 @@ Passionné d'astronomie, de tatouages, de chats, plongée technique (-142m), Tim
 <a href="https://www.laquadrature.net/"><img src="https://i.imgur.com/sYjt6go.png" width="150" alt="La Quadrature du Net"></a>
 <a href="https://www.eff.org/"><img src="https://www.eff.org/files/2024/12/06/2025-orgmember.png" width="150" alt="EFF Member 2025"></a><br>
 
-<a href="https://reflets.info/"><img src="https://i.imgur.com/A5Y51UU.png" width="150" alt="Reflets.info"></a>       
-<a href="https://dondesang.efs.sante.fr/"><img src="https://i.imgur.com/2qM8DE4.png" width="150" alt="Don du sang EFS"></a>       
+<a href="https://reflets.info/"><img src="https://i.imgur.com/A5Y51UU.png" width="150" alt="Reflets.info"></a> 
+<a href="https://dondesang.efs.sante.fr/"><img src="https://i.imgur.com/2qM8DE4.png" width="150" alt="Don du sang EFS"></a> 
 <a href="https://my.fsf.org/join?referrer=6981362"><img src="https://static.fsf.org/nosvn/associate/crm/6981362.png" width="150" alt="FSF Associate Member"></a>
 
 ---
