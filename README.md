@@ -1,6 +1,4 @@
-## Hi there 👋
-
-### $ whoami — deuza
+## $ whoami — deuza
 
 Hacktiviste · ancien contributeur FreeBSD · Éducateur à la vie privée · Papa de relays Tor et de proxy Signal · Time Keeper     
 📍 Région Centre, France, Europe 
